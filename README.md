@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋, I'm Shivanand
 
-<!--
-**ShivuMalkapuri/ShivuMalkapuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Software Engineer  
+🚀 Java | Python | DSA | Backend & Cloud  
+🔐 Building decentralized systems with Hyperledger & IPFS  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 About Me
+- Passionate about solving real-world problems through code  
+- Strong in Data Structures & Algorithms  
+- Interested in Backend Development & Cloud Computing  
+- Currently working on blockchain-based secure file sharing system  
+
+---
+
+## 🛠️ Tech Stack
+- Java, Python, JavaScript  
+- HTML, CSS  
+- Git & GitHub  
+- DSA, OOP, DBMS  
+
+---
+
+## 📫 Connect
+- LinkedIn: https://www.linkedin.com/in/shivanand-malkapuri/

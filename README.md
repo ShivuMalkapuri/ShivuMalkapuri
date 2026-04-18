@@ -77,17 +77,17 @@
 
 ---
 
-## 📊 GitHub Stats
+## 💻 Top Languages
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ShivuMalkapuri&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivuMalkapuri&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivuMalkapuri&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 💻 Top Languages
+## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivuMalkapuri&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=ShivuMalkapuri&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivuMalkapuri&theme=tokyonight" />
 </p>
 
 ---

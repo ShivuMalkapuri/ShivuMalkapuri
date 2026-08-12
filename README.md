@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://ShivuMalkapuri.github.io/Portfolio-Website/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Live_Portfolio-6366F1?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
-  </a>
+  </a> <br> <br>
   <a href="https://www.linkedin.com/in/shivanand-malkapuri/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -16,7 +16,6 @@
     <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ShivuMalkapuri&label=Profile%20Views&color=6366f1&style=flat" alt="Profile Views" />

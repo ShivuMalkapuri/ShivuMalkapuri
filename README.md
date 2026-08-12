@@ -16,13 +16,6 @@
     <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivuMalkapuri&theme=tokyonight&hide_border=true" width="97%" />
-</p>
-
 ---
 
 <p align="center">
